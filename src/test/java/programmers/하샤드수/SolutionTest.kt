@@ -1,8 +1,7 @@
-package programmers.week1.하샤드수
+package programmers.하샤드수
 
 import org.junit.Assert
 import org.junit.Test
-import programmers.week1.하샤드수.Solution
 
 class SolutionTest {
 

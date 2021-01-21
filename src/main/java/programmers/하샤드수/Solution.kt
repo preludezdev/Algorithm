@@ -1,4 +1,4 @@
-package programmers.week1.하샤드수
+package programmers.하샤드수
 
 class Solution {
 
