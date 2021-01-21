@@ -1,4 +1,4 @@
-package programmers.week1.다음큰숫자
+package programmers.week1.하샤드수
 
 class Solution {
 

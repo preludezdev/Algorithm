@@ -9,9 +9,7 @@ class SolutionTest {
     fun solutionTest() {
         val sol = Solution()
 
-        Assert.assertEquals(true, sol.solution(10))
-        Assert.assertEquals(true, sol.solution(12))
-        Assert.assertEquals(false, sol.solution(11))
-        Assert.assertEquals(false, sol.solution(13))
+        Assert.assertEquals(83, sol.solution(78))
+        Assert.assertEquals(23, sol.solution(15))
     }
 }
