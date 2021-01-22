@@ -7,9 +7,9 @@ class Solution {
         var currX = x
         var factor = 0
 
-        while(currX > 0){
-           factor += currX % 10
-           currX /= 10
+        while (currX > 0) {
+            factor += currX % 10
+            currX /= 10
         }
 
         return x % factor == 0
