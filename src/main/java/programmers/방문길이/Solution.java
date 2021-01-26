@@ -9,7 +9,7 @@ class Solution {
 
     public int solution(String dirs) {
 
-        HashSet<String> passedRoute = new HashSet();
+        HashSet<String> passedRoute = new HashSet<>();
 
         int startX = 0;
         int startY = 0;
