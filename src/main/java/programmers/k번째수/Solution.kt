@@ -9,9 +9,9 @@ class Solution {
         commands.forEach {command ->
             val startIndex = command[0] - 1
             val endIndex = command[1] - 1
-            val k = command[2]
+            val k = command[2] - 1
 
-            val numAtK = array.slice(startIndex .. endIndex).sorted()[k-1]
+            val numAtK = array.slice(startIndex .. endIndex).sorted()[k]
             answer.add(numAtK)
         }
 
