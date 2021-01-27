@@ -18,3 +18,8 @@ class Solution {
         return answer.toIntArray()
     }
 }
+
+/**
+ * 간단한 문제였다.
+ * 테스트 코드 짤 때 코틀린으로 2차원 배열 초기화해서 만드는 법을 몰라서 살짝 애먹었다.
+ */
