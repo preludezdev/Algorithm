@@ -10,3 +10,4 @@
 - K번째 수 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/42748)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/k%EB%B2%88%EC%A7%B8%EC%88%98/Solution.kt)] (20210128)
 - 문자열 내 마음대로 하기 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12915)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Solution.kt)] (20210129)
 - 스킬트리 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/49993)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC/Solution.java)] (20210203)
+- 올바른 괄호 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12909)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8/Solution.java)] (20210208)
