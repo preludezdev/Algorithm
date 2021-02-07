@@ -1,13 +1,13 @@
 # 알고리즘 문제 풀이
 
 ## 프로그래머스
-- 하샤드 수 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12947)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98/Solution.kt)] (20210120)
-- 다음 큰 숫자 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12911)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90/Solution.java)] (20210121)
-- 모의고사 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/42840)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Solution.kt)] (20210122)
-- 방문길이 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/49994)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4/Solution.java)] (20210125)
-- 영어 끝말잇기 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12981)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0/Solution.java)] (20210126)
-- 소수만들기 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12977)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Solution.kt)] (20210127)
-- K번째 수 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/42748)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/k%EB%B2%88%EC%A7%B8%EC%88%98/Solution.kt)] (20210128)
-- 문자열 내 마음대로 하기 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12915)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Solution.kt)] (20210129)
-- 스킬트리 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/49993)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC/Solution.java)] (20210203)
-- 올바른 괄호 : [[링크](https://programmers.co.kr/learn/courses/30/lessons/12909)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8/Solution.java)] (20210208)
+- 하샤드 수 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/12947)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98/Solution.kt)] (20210120)
+- 다음 큰 숫자 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/12911)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90/Solution.java)] (20210121)
+- 모의고사 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/42840)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Solution.kt)] (20210122)
+- 방문길이 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/49994)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4/Solution.java)] (20210125)
+- 영어 끝말잇기 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/12981)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0/Solution.java)] (20210126)
+- 소수만들기 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/12977)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Solution.kt)] (20210127)
+- K번째 수 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/42748)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/k%EB%B2%88%EC%A7%B8%EC%88%98/Solution.kt)] (20210128)
+- 문자열 내 마음대로 하기 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/12915)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Solution.kt)] (20210129)
+- 스킬트리 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/49993)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC/Solution.java)] (20210203)
+- 올바른 괄호 : [[문제](https://programmers.co.kr/learn/courses/30/lessons/12909)] [[풀이](https://github.com/preludezdev/Algorithm/blob/master/src/main/java/programmers/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8/Solution.java)] (20210208)
