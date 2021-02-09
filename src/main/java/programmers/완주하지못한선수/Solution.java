@@ -7,8 +7,8 @@ class Solution {
     public String solution(String[] participants, String[] completions) {
         HashMap<String, Integer> hs = new HashMap<>();
 
-        for(String participant : participants) {
-            if(hs.containsKey(participant)) {
+        for (String participant : participants) {
+            if (hs.containsKey(participant)) {
                 int newVal = hs.get(participant) + 1;
                 hs.put(participant, newVal);
             } else {
@@ -16,11 +16,11 @@ class Solution {
             }
         }
 
-        for(String completion : completions) {
-            if(hs.containsKey(completion)) {
+        for (String completion : completions) {
+            if (hs.containsKey(completion)) {
                 int newVal = hs.get(completion) - 1;
 
-                if(newVal == 0) {
+                if (newVal == 0) {
                     hs.remove(completion);
                 } else {
                     hs.put(completion, newVal);
@@ -33,6 +33,7 @@ class Solution {
         return hs.keySet().iterator().next();
     }
 
+    // 다른 풀이방법 : 정렬 이용
 //    public String solution(String[] participants, String[] completions) {
 //        Arrays.sort(participants);
 //        Arrays.sort(completions);
